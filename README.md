@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks! 👋
 
 I am Nishchay Verma, a software developer that is currently working in NTTData, Noida - India as a Software Development Senior Associate.
 
