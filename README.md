@@ -7,6 +7,7 @@ I'm a also a self-proclaimed Poet, a budding youtuber, Graphic Designer and Orac
 <h3>Things I code with</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-yellow" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
