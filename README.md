@@ -1,4 +1,4 @@
-### Hi Folks! 👋 
+### Hi Folks! 👋 <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
 
 I am Nishchay Verma, a software developer that is currently working in Infosys, Pune - India as an Associate Consultant. Previously I have worked in NTTData as a Software Developer Senior Associate.
 
@@ -18,7 +18,6 @@ I'm a also a self-proclaimed Poet, a budding youtuber, Graphic Designer and Orac
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nishchay7pixels.visitor-badge)
