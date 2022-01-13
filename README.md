@@ -1,8 +1,8 @@
 ### Hi Folks! 👋 <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
 
-I am Nishchay Verma, a software developer that is currently working in Infosys, Pune - India as an Associate Consultant. Previously I have worked in NTTData as a Software Developer Senior Associate.
+I am Nishchay Verma, a web application developer. I am currently working in Infosys Ltd, Pune - India as an Associate Consultant. Previously I have worked in NTTData Services as a Software Developer Senior Associate.
 
-I'm a also a self-proclaimed Poet, a budding youtuber, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, Java, Python and Image-Processing. I have understanding of DevOps Practices and Amazon Elastic Compute Cloud.
+I'm also a self-proclaimed Poet, budding tech. blogger @dev.io, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, Java, Python and Image-Processing. I have understanding of DevOps Practices and Amazon Elastic Compute Cloud.
 
 <h3>Things I code with</h3>
 <p>
@@ -17,8 +17,7 @@ I'm a also a self-proclaimed Poet, a budding youtuber, Graphic Designer and Orac
   <img alt="Jvascript" src="https://img.shields.io/badge/-Javascript-ea2845?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
+  </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nishchay7pixels.visitor-badge)
 
