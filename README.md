@@ -30,4 +30,4 @@ You can find and get in touch with me on these platforms!
 
 [![Linkedin Badge](https://img.shields.io/badge/Nishchay%20Verma-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishchay-verma-896224126/)
 [![My Website Badge](https://img.shields.io/badge/nishchay7pixels-Website-blue?style=for-the-badge&logo=minutemailer)](https://nishchay7pixels.github.io)
-[![My Instagram Badge](https://img.shields.io/badge/nishchay7pixels-Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/niishchay)
+[![My Instagram Badge](https://img.shields.io/badge/nishchay7pixels-Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/nishchyaverma)
