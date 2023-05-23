@@ -1,5 +1,4 @@
-### Hi Folks! 👋 <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
-
+### Hi Folks! 👋 
 I am Nishchay Verma, a web application developer. I am currently working as a SDE-3 in Walmart Global Technology Services. Previously I have worked in Infosys and NTTData Services.
 
 I'm also a self-proclaimed Poet, budding tech. blogger @dev.io, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, Java, Python and Image-Processing. I have understanding of DevOps Practices and Amazon Elastic Compute Cloud.
