@@ -1,7 +1,7 @@
 ### Hi Folks! 👋 
-I am Nishchay Varma, a web application developer. I am currently working as a SDE-3 in Walmart Global Technology Services. Previously I have worked in Infosys and NTTData Services.
+I am Nishchay Varma, a web application developer. I am currently working as a Senior Fullstack Developer in Mimecast. Earlier I was a SDE3 @ Walmart Global Technology Services
 
-I'm also a self-proclaimed Poet, budding tech. blogger @dev.io, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, Java, Python and Image-Processing. I have understanding of DevOps Practices and Amazon Elastic Compute Cloud.
+I'm also a self-proclaimed Poet, budding tech. blogger @dev.io, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, SpringBoot, Java, Python and Image-Processing. I have understanding of DevOps Practices and AWS.
 
 <h3>Things I code with</h3>
 <p>
